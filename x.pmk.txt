@@ -1,0 +1,15 @@
+make<dir1/dir2>;
+make<dir1/dir2>;
+make<0dir>;
+go<C:/Users/yasin/Desktop/project_codeblocks>;
+make<dir3>;
+if<*>
+{
+go<*>;
+make<dir4>;
+}
+ifnot<C:/Users/yasin/Desktop/project_codeblocks/dir5> make<dir5>;
+go<C:/Users/yasin/Desktop>;
+make<dir6/dir7/dir8>;
+go<C:/Users/yasin/Desktop/dir6/dir7/dir8>;
+if<dir6> make<dir9>;

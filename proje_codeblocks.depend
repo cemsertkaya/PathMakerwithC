@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1592329398 source:c:\users\yasin\desktop\proje_codeblocks\main.c
+	<stdlib.h>
+	<ctype.h>
+	<sys/stat.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	<errno.h>
+	<io.h>
+	<direct.h>
+	<dirent.h>
+	<unistd.h>
+
